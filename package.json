@@ -1,0 +1,11 @@
+{
+  "name": "rsyncwrapper",
+  "version": "1.0.0",
+  "description": "simple wrapper for an async shell child process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Herndon",
+  "license": "ISC"
+}
